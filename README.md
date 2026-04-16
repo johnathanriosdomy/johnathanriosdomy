@@ -2,7 +2,7 @@
 
 **`Desenvolvedor e Design FullStack`**
 
-Me chamo Johnathan Amorim Rios, Sou formado em Análise e Desenvolvimento de Sistemas, e atuo como Desenvolvedor FullStack a mais de 10 anos. Participando de inumeros projeto de desenvolvimento e disign, de ponta a ponta, desde o levantamento de requisitos, prototipação, frontend e backend de projetos de sites, sistemas, lojas virtuais, aplicativos móveis e muito mais."[Portfólio](https://leccorside.com.br/)"
+Me chamo Johnathan Amorim Rios, Sou formado em Análise e Desenvolvimento de Sistemas, e atuo como Desenvolvedor FullStack a mais de 10 anos. Participando de inumeros projeto de desenvolvimento e disign, de ponta a ponta, desde o levantamento de requisitos, prototipação, frontend e backend de projetos de sites, sistemas, lojas virtuais, aplicativos móveis e muito mais.
 
 <p align="left">
    
