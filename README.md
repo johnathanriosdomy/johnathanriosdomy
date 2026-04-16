@@ -6,18 +6,18 @@ Me chamo Johnathan Amorim Rios, Sou formado em Análise e Desenvolvimento de Sis
 
 <p align="left">
    
-<a href="https://github.com/leccorside?tab=repositories&sort=stargazers">
+<a href="https://github.com/johnathanriosdomy?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/leccorside?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/johnathanriosdomy?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/leccorside?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/leccorside?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/johnathanriosdomy?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
@@ -160,4 +160,4 @@ Me chamo Johnathan Amorim Rios, Sou formado em Análise e Desenvolvimento de Sis
 
 ### 📊 Estatísticas
 
-![GitHub Streak](https://streak-stats.demolab.com?user=leccorside&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=johnathanriosdomy&theme=tokyonight)
